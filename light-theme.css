@@ -221,6 +221,9 @@ body {
 
 .carousel {
   background: #0e1720; 
+  width:65.88%;
+  height:20.88%;
+  margin:auto;
 }
 .carousel .carousel-item {
   height: 300px; 
@@ -395,7 +398,6 @@ body {
 
 
 .map-container{
-  <<<<<<< HEAD
 overflow:hidden;
 padding-bottom:56.25%;
 position:relative;
@@ -790,13 +792,7 @@ body {
   position:absolute;
   }
 
-  .carousel{
-    width:65.88%;
-    height:20.88%;
-    margin:auto;
-  }
-
-  @media screen and (max-width: 425px) {;
+  @media screen and (max-width: 425px) {
     }
     .carousel{
       background-color: #03a9f4;
@@ -807,4 +803,3 @@ body {
       height: 100%;
     }
   }
->>>>>>> ed440e78f770baf6d889c254e77a4adbd38af6be

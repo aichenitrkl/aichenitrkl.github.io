@@ -387,7 +387,6 @@ body {
 
 
 .map-container{
-  <<<<<<< HEAD
 overflow:hidden;
 padding-bottom:56.25%;
 position:relative;
@@ -752,12 +751,11 @@ body {
 }
 
 
-=======
-  overflow:hidden;
+  /* overflow:hidden;
   padding-bottom:56.25%;
   position:relative;
   height:0;
-  }
+  } */
   .map-container iframe{
   left:0;
   top:0;
@@ -772,8 +770,7 @@ body {
     margin:auto;
   }
 
-  @media screen and (max-width: 425px) {;
-    }
+  @media screen and (max-width: 425px) {
     .carousel{
       background-color: #03a9f4;
       margin-left: 0%;
@@ -783,4 +780,3 @@ body {
       height: 100%;
     }
   }
->>>>>>> ed440e78f770baf6d889c254e77a4adbd38af6be
