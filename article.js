@@ -292,7 +292,7 @@ else if(sessionStorage.getItem("points") == 11){
 else if(sessionStorage.getItem("points") == 12){
     var element = document.getElementById("id01");
     element.innerHTML = "Career Fair";
-    document.getElementById('myImage').src="imagesteam/Carrer_page.jpg";
+    document.getElementById('myImage').src="imagesteam/blog_1.png";
     var element1 = document.getElementById("id02");
     element1.innerHTML = "Engineering is a vast field of study and is categorized under many branches. Consequently, it is very difficult for someone to know about all of those branches and the prospects and opportunities that come along with it. Career decisions are often confusing and are a rally important part of a student’s life as they have to stick with their decision for the rest of their lives. To ease their troubles in this matter our chapter’s K-12 division organized career fair where panelists from all the engineering streams were called to give a presentation on the prospects and opportunities of their respective branches. Students from class seven to twelve were called to participate from various schools under the coordination of our team and the respective faculties of the participating institutes. This three-day long event was a success overall and it also helped a lot of students to clarify their doubts on what branch they could pursue in their undergraduate years.";
 }
